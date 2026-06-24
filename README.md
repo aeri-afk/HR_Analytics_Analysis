@@ -8,6 +8,8 @@ The project was developed using Python for data analysis, SQL Server for data ma
 
 
 
+
+
 🎯 Objectives
 
 Analyze workforce distribution across departments.
@@ -20,6 +22,8 @@ Python (Pandas) – Data Cleaning & Exploration
 SQL Server – Data Storage & Analysis
 Power BI – Dashboard Development
 Jupyter Notebook – Exploratory Data Analysis
+
+
 
 
 
@@ -38,6 +42,8 @@ Employee Distribution by Education Level
 Department, Gender, Education, and Attrition Filters
 
 
+
+
 📈 Key Insights
 
 Total workforce consists of 1,000 employees.
@@ -46,6 +52,8 @@ Finance and Marketing departments have the highest employee counts.
 Operations department records the highest average salary.
 Employee education levels are distributed fairly evenly across Bachelor's, Master's, Diploma, and PhD qualifications.
 Gender distribution remains balanced across the organization.
+
+
 
 🗂 Dataset Information
 
@@ -66,6 +74,8 @@ Performance Rating
 Total Records: 1,000 Employees
 
 
+
+
 🔄 Project Workflow
 
 Data Collection
@@ -78,9 +88,13 @@ Business Insight Generation
 
 
 
+
+
 📷 Dashboard Preview
 
 <img width="1055" height="548" alt="image" src="https://github.com/user-attachments/assets/ffd3d8bb-6968-4984-aabd-b842a25ab6bf" />
+
+
 
 
 
@@ -97,12 +111,16 @@ Improve data-driven HR decision-making.
 
 
 
+
+
 👤 Author
 
 
 Arisha Kashif
 
 Aspiring Data Analyst skilled in Python, SQL Server, Power BI, Data Visualization, and Business Intelligence.
+
+
 
 
 
